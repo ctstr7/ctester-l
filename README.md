@@ -26,12 +26,12 @@
 
 Это не просто безопасность, ваша жизнь может находиться в опасности, если вы соедините тестовые контакты с цепью под напряжением или источником питания, особенно в электросети!
 
-> [!warning]  
+> $\color{red}\texttt{\large⚠\normalsize\ Предупреждение}$
 > * Если Вы тестируете конденсатор, обязательно разрядите его прежде, чем подключить к прибору!
 > * Если Вы тестируете катушку индуктивности, то дождитесь завершения тестирования перед тем, как отключить ее от прибора!
 
-## Ссылка на документ
-<>
+## Короткая ссылка на документ
+<http://t.ly/nGNKp>
 
 
 
@@ -45,5 +45,56 @@
 * <https://www.markdownguide.org/hacks/>
 * <https://docs.github.com/en/get-started/writing-on-github>
 * <http://pad.haroopress.com/user.html>
+* <https://www.compart.com/en/unicode/block>
+* <https://gist.github.com/luigiMinardi/4574708d404cdf4fe0da7ac6fe2314db>
 
 [![Видео](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Кликни для просмотра видео")
+
+> [!NOTE]  
+> Highlights information that users should take into account, even when skimming.
+
+> [!TIP]
+> Optional information to help a user be more successful.
+
+> [!IMPORTANT]  
+> Crucial information necessary for users to succeed.
+
+> [!WARNING]  
+> Critical content demanding immediate user attention due to potential risks.
+
+> [!CAUTION]
+> Negative potential consequences of an action.
+
+> ![](https://placehold.co/130x30/red/white?text=Внимание!!!&font=open-sans) Внимание!
+>
+> gdjkfgh
+
+
+
+$\color{red}\text{\LARGE⚠\normalsize\ Предупреждение}$
+
+$\color{red}\textup{\Large⚠\normalsize\ Предупреждение}$
+
+$\color{red}\textbf{\Large⚠\normalsize\ Предупреждение}$
+
+$\color{red}\text{\Large⚠\normalsize\ \itПредупреждение}$
+
+$\color{red}\texttt{\Large⚠\normalsize\ Предупреждение}$
+
+$\colorbox{red}{\textsf{lorem ipsum ⚠}}$
+
+$\large{ \color{white} \colorbox{Red}{ \textsf{⚠ Предупреждение}}}$
+
+
+| $\color{black}{\textsf{Black}}$ |  $\color{blue}{\textsf{Blue}}$ | $\color{brown}{\textsf{Brown}}$ | $\color{darkgray}{\textsf{Dark Gray}}$  | $\color{gray}{\textsf{Gray}}$ | 
+| ------------- | ------------- | ------------- | ------------- | ------------- | 
+| $\color{lightgray}{\textsf{Light Gray}}$ |  $\color{green}{\textsf{Green}}$ | $\color{lightblue}{\textsf{Light Blue}}$ | $\color{lime}{\textsf{Lime}}$  | $\color{magenta}{\textsf{Magenta}}$ |
+| $\color{olive}{\textsf{Olive}}$ |  $\color{orange}{\textsf{Orange}}$ | $\color{pink}{\textsf{Pink}}$ | $\color{purple}{\textsf{Purple}}$  | $\color{red}{\textsf{Red}}$ | 
+| $\color{teal}{\textsf{Teal}}$ |  $\color{violet}{\textsf{Violet}}$ | $\color{white}{\textsf{White}}$ | $\color{yellow}{\textsf{Yellow}}$  | $\color{BurntOrange}{\textsf{Burnt Orange}}$ |
+| $\small{ \color{white} \colorbox{Green}{ \textsf{White on Green}}}$   | $\color{pink} \fcolorbox{teal}{blue}{ \textsf{ \small{Pink on Blue w/ teal border}}}$  | $\color{black} \fcolorbox{white}{red}{ \small{ \textsf{Black on Red w/ white border}}}$   | $\color{black} \fcolorbox{red}{white}{ \small{ \textsf{Black on White w/ red border}}}$ | $\color{black} \colorbox{BurntOrange}{ \small{ \textsf{Black on Orange}}}$ |
+| $\color{purple} \colorbox{olive}{ \textsf{Purple on Olive}}$ |  $\color{green} \colorbox{white}{ \textsf{Green on White}}$ | $\color{Orange} \fcolorbox{blue}{black}{ \textsf{Orange on Black w/ blue border}}$  | $\color{blue} \small{ \fcolorbox{lime}{white}{ \textsf{Blue on White w/ lime border}}}$ | $\color{lime} \colorbox{violet}{ \textsf{Lime on Violet}}$ |
+
+
+
+**✄❗⚠**
+
