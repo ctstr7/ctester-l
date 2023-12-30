@@ -95,6 +95,9 @@ $\large{ \color{white} \colorbox{Red}{ \textsf{⚠ Предупреждение}
 | $\color{purple} \colorbox{olive}{ \textsf{Purple on Olive}}$ |  $\color{green} \colorbox{white}{ \textsf{Green on White}}$ | $\color{Orange} \fcolorbox{blue}{black}{ \textsf{Orange on Black w/ blue border}}$  | $\color{blue} \small{ \fcolorbox{lime}{white}{ \textsf{Blue on White w/ lime border}}}$ | $\color{lime} \colorbox{violet}{ \textsf{Lime on Violet}}$ |
 
 
+${\color{red}Red}$
+$${\color{red}Red}$$
+
 
 **✄❗⚠**
 
