@@ -13,7 +13,7 @@
 * увеличенное количество портов ввода-вывода
 * и др.
 
-Так же, данный микроконтроллер поддерживает работу на тактовой частоте до 32МГц, что вдвое превышает тактовую частоту микроконтроллеров ATmega.
+Так же, данный микроконтроллер поддерживает работу на тактовой частоте вдвое превышающей тактовую частоту микроконтроллеров ATmega.
 
 Кроме того, микроконтроллер LGT8F328P выполняет большинство команд за меньшее количество тактов, по сравнению с Atmega, что дает дополнительный прирост производительности.
 
@@ -85,18 +85,6 @@ $\colorbox{red}{\textsf{lorem ipsum ⚠}}$
 
 $\large{ \color{white} \colorbox{Red}{ \textsf{⚠ Предупреждение}}}$
 
-
-| $\color{black}{\textsf{Black}}$ |  $\color{blue}{\textsf{Blue}}$ | $\color{brown}{\textsf{Brown}}$ | $\color{darkgray}{\textsf{Dark Gray}}$  | $\color{gray}{\textsf{Gray}}$ | 
-| ------------- | ------------- | ------------- | ------------- | ------------- | 
-| $\color{lightgray}{\textsf{Light Gray}}$ |  $\color{green}{\textsf{Green}}$ | $\color{lightblue}{\textsf{Light Blue}}$ | $\color{lime}{\textsf{Lime}}$  | $\color{magenta}{\textsf{Magenta}}$ |
-| $\color{olive}{\textsf{Olive}}$ |  $\color{orange}{\textsf{Orange}}$ | $\color{pink}{\textsf{Pink}}$ | $\color{purple}{\textsf{Purple}}$  | $\color{red}{\textsf{Red}}$ | 
-| $\color{teal}{\textsf{Teal}}$ |  $\color{violet}{\textsf{Violet}}$ | $\color{white}{\textsf{White}}$ | $\color{yellow}{\textsf{Yellow}}$  | $\color{BurntOrange}{\textsf{Burnt Orange}}$ |
-| $\small{ \color{white} \colorbox{Green}{ \textsf{White on Green}}}$   | $\color{pink} \fcolorbox{teal}{blue}{ \textsf{ \small{Pink on Blue w/ teal border}}}$  | $\color{black} \fcolorbox{white}{red}{ \small{ \textsf{Black on Red w/ white border}}}$   | $\color{black} \fcolorbox{red}{white}{ \small{ \textsf{Black on White w/ red border}}}$ | $\color{black} \colorbox{BurntOrange}{ \small{ \textsf{Black on Orange}}}$ |
-| $\color{purple} \colorbox{olive}{ \textsf{Purple on Olive}}$ |  $\color{green} \colorbox{white}{ \textsf{Green on White}}$ | $\color{Orange} \fcolorbox{blue}{black}{ \textsf{Orange on Black w/ blue border}}$  | $\color{blue} \small{ \fcolorbox{lime}{white}{ \textsf{Blue on White w/ lime border}}}$ | $\color{lime} \colorbox{violet}{ \textsf{Lime on Violet}}$ |
-
-
-${\color{red}Red}$
-$${\color{red}Red}$$
 
 
 **✄❗⚠**
