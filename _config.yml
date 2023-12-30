@@ -3,3 +3,5 @@
 # To use any other Jekyll theme hosted on GitHub, type remote_theme: THEME-NAME, replacing THEME-NAME with the name of the theme as shown in the README of the theme's repository.
 
 theme: jekyll-theme-leap-day
+title: Тестер радиоэлектронных компонентов
+description: с микроконтроллером LGT8F328P и графическим дисплеем
